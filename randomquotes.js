@@ -1,4 +1,3 @@
-<script>
 //Get All Quotes
 const quotes = [
 {
@@ -324,5 +323,3 @@ btn.addEventListener('click', () => {
     document.querySelector('.author').innerText = quotes[random].author;
 
 });
-
-</script>
